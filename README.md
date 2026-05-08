@@ -43,15 +43,19 @@ I specialize in:
 <div align="center">
 
 ### 🌐 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue" />
 
 ### 📱 Mobile Development
+
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
 
 ### ⚙️ Backend & Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
 ### 🔐 Cybersecurity
+
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 
 </div>
@@ -70,4 +74,8 @@ A system designed for efficient task management and real-time tracking using mod
 
 ---
 
+<div align="center">
+
 ### ⭐ Thank you for visiting my portfolio!
+
+</div>
