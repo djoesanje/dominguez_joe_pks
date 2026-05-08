@@ -66,7 +66,7 @@ I also aim to expand my knowledge in cybersecurity and modern software developme
 
 ## 🌐 Connect With Me
 
-- 📧 Email: joe.dominguez@neu.edu.ph
+- 📧 Email: [email.com/djoesamke](djoesanje@gmail.com)
 - 💻 GitHub: [github.com/djoesanje](https://github.com/djoesanje)
 
 ---
