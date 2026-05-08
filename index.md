@@ -66,7 +66,7 @@ I also aim to expand my knowledge in cybersecurity and modern software developme
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [email.com/djoesamke](djoesanje@gmail.com)
+- 📧 Email: [email.com/djoesanje](https://djoesanje@gmail.com)
 - 💻 GitHub: [github.com/djoesanje](https://github.com/djoesanje)
 
 ---
