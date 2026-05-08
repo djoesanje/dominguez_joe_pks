@@ -2,7 +2,16 @@
 
 ## Joe S. Dominguez | BSIT Student @ NEU
 
-Welcome to my Personal Knowledge System (PKS) Portfolio. This website showcases my academic journey, technical skills, and projects as a BSIT student at New Era University.
+Welcome to my Personal Knowledge System (PKS) Portfolio.
+
+---
+
+# 📌 Navigation
+
+- [🏠 Home](README.md)
+- [🙋 About Me](about.md)
+- [📂 Projects](projects.md)
+- [📝 Reflection](reflection.md)
 
 ---
 
@@ -10,7 +19,7 @@ Welcome to my Personal Knowledge System (PKS) Portfolio. This website showcases 
 <tr>
 <td width="70%">
 
-## About This Portfolio
+## 🚀 About This Portfolio
 
 This portfolio contains my learning outputs, projects, and reflections in the field of Information Technology, particularly in web development, mobile development, and cybersecurity.
 
@@ -27,7 +36,7 @@ It serves as a documentation of my growth, experiences, and progress throughout 
 
 <td width="30%" align="center">
 
-<img src="images/profile.jpg" width="200" style="border-radius: 12px;" />
+<img src="images/profile.jpg" width="200"/>
 
 </td>
 </tr>
