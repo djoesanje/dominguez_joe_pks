@@ -20,6 +20,7 @@
 
 | Section | Link |
 | :--- | :--- |
+| 🏠 Home | [Open](./) |
 | 🙋 About Me | [Open](about.md) |
 | 📂 Projects | [Open](projects.md) |
 | 📝 Reflection | [Open](reflection.md) |
@@ -32,10 +33,10 @@ I am a BSIT student at **New Era University** with a strong interest in building
 
 I specialize in:
 
-- 💻 Web Development
-- 📱 Mobile Development
-- 🔐 Cybersecurity
-- ⚙️ System Development
+- 💻 **Web Development** (MERN Stack, Next.js)
+- 📱 **Mobile Development** (React Native, Android Studio)
+- 🔐 **Cybersecurity** (Red Teaming, Pentesting)
+- ⚙️ **System Development**
 
 I enjoy creating modern applications and continuously improving my technical skills through real-world projects and hands-on learning.
 
@@ -45,16 +46,16 @@ I enjoy creating modern applications and continuously improving my technical ski
 
 <div align="center">
 
-## 🌐 Frontend
+### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue" />
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
 
-## ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+### ⚙️ Backend & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,nodejs,express" />
 
-## 🔐 Cybersecurity
+### 🔐 Cybersecurity
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 
 </div>
@@ -64,59 +65,47 @@ I enjoy creating modern applications and continuously improving my technical ski
 # 📂 Featured Projects
 
 ## 🚀 Real-Time Work Order and Task Assignment System
+*Capstone Project*
 
-A capstone project focused on real-time task management, work assignment, and progress tracking for teams and organizations.
-
-### Technologies Used:
-- React Native
-- MERN Stack
-- Firebase
-- GitHub
+A system focused on real-time task management and progress tracking using:
+- **Frontend:** React Native
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB / Firebase
+- **Real-time:** Socket.io
 
 ---
 
 ## 📱 Student GPA Calculator
+*Mobile Application*
 
-A mobile application designed to help students calculate and monitor their GPA efficiently.
-
-### Features:
-- GPA Computation
-- Subject Management
-- Simple User Interface
+An Android-based tool for students to monitor academic performance.
+- Features: Automatic GPA Computation & Subject Management.
 
 ---
 
 # 📈 Current Learning Journey
 
-- ⚛️ React Native Development
-- 🌐 MERN Stack
-- 🔥 Firebase Integration
-- 🔐 Cybersecurity Fundamentals
-- 📱 Android Application Development
+- ⚛️ **React Native** & Expo Integration
+- 🌐 **MERN Stack** (MongoDB, Express, React, Node)
+- 🔥 **Firebase** Authentication & Firestore
+- 🔐 **Cybersecurity Fundamentals** (Kali Linux, Nmap)
 
 ---
 
 # 📝 Reflection
 
-This portfolio represents my growth as a BSIT student and aspiring developer.
-
-Through GitHub, Markdown, and project development, I learned the importance of:
-- Proper documentation
-- Version control
-- Clean code structure
-- Continuous learning
-
-I believe technology becomes more powerful when combined with creativity, discipline, and problem-solving.
+Throughout my journey as a BSIT student, I've realized that technology is not just about writing code; it's about solving real-world problems. Using tools like **GitHub** and **Markdown** has taught me the value of:
+1. **Proper Documentation**
+2. **Version Control**
+3. **Clean Code Architecture**
 
 ---
 
 # 🌐 Connect With Me
 
-- 💻 GitHub: [github.com/djoesanje](https://github.com/djoesanje)
-- 📧 Email: joe.dominguez@neu.edu.ph
-- 🏫 New Era University
-
----
+* 💻 **GitHub:** [djoesanje](https://github.com/djoesanje)
+* 📧 **Email:** [joe.dominguez@neu.edu.ph](mailto:joe.dominguez@neu.edu.ph)
+* 🏫 **University:** New Era University
 
 <div align="center">
 
