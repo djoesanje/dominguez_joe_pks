@@ -20,7 +20,7 @@
 
 | Section | Link |
 | :--- | :--- |
-| 🏠 Home | [Open](./) |
+| 🏠 Home | [Open](./README.md) |
 | 🙋 About Me | [Open](about.md) |
 | 📂 Projects | [Open](projects.md) |
 | 📝 Reflection | [Open](reflection.md) |
