@@ -6,21 +6,29 @@
 
 <table>
 <tr>
-<td width="70%">
 
-### 🚀 About Me
+<td width="65%">
+
+## 🚀 About Me
 
 I am a BSIT student at **New Era University** with a strong interest in building secure and efficient systems.
 
-I specialize in web and mobile development, with a growing passion for cybersecurity.
+I specialize in:
+
+- 💻 Web Development
+- 📱 Mobile Development
+- 🔐 Cybersecurity
+
+I enjoy learning modern technologies and building projects that improve both functionality and user experience.
 
 </td>
 
-<td width="30%" align="center">
+<td width="35%" align="center">
 
-<img src="images/profile.jpg" width="180"/>
+<img src="images/profile.jpg" width="200"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -28,11 +36,11 @@ I specialize in web and mobile development, with a growing passion for cybersecu
 
 ## 🛠️ Technical Stack
 
-| Category | Tools/Skills |
+| Category | Tools / Skills |
 | :--- | :--- |
-| Web | HTML, CSS, JavaScript, React JS |
-| Mobile | Android Development |
-| Backend | Firebase, Git & GitHub |
-| Security | Basic Cybersecurity |
+| 🌐 Web | HTML, CSS, JavaScript, React JS |
+| 📱 Mobile | Android Development |
+| 🔥 Backend | Firebase, Git & GitHub |
+| 🔐 Security | Basic Cybersecurity |
 
 ---
