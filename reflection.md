@@ -1,15 +1,13 @@
-# Reflection
+# 📝 Reflection
 
 [🏠 Home](README.md) | [🙋 About Me](about.md) | [📂 Projects](projects.md)
 
 ---
 
-This portfolio shows my learning journey in the PKS subject as a BSIT student at New Era University.
+Throughout the PKS course, I learned the importance of proper documentation, version control, and clean project organization.
 
-Throughout this course, I was able to apply and improve my knowledge in web development, documentation, and system organization. I learned how to properly structure a digital portfolio using Markdown and how to organize files, images, and content in a clean and systematic way.
+This portfolio reflects my growth as a BSIT student and aspiring developer.
 
-This experience also helped me understand the importance of consistency, attention to detail, and proper documentation when working on software development projects.
+Using GitHub and Markdown helped me understand how developers organize and present their work professionally.
 
-In addition, I gained more confidence in using tools such as GitHub and Visual Studio Code, which are essential for modern development workflows.
-
-Overall, this portfolio represents my progress, effort, and growth in becoming a more capable and disciplined IT student.
+---
