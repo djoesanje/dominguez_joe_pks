@@ -10,7 +10,7 @@ Welcome to my Personal Knowledge System (PKS) Portfolio. This website showcases 
 <tr>
 <td width="70%">
 
-## 🚀 About This Portfolio
+## About This Portfolio
 
 This portfolio contains my learning outputs, projects, and reflections in the field of Information Technology, particularly in web development, mobile development, and cybersecurity.
 
