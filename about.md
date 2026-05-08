@@ -2,6 +2,12 @@
 
 ## Joe S. Dominguez | BSIT Student @ NEU
 
+# 🙋 About Me
+
+[🏠 Home](README.md) | [📂 Projects](projects.md) | [📝 Reflection](reflection.md)
+
+---
+
 ---
 
 <table>
