@@ -1,5 +1,9 @@
 # Reflection
 
+[🏠 Home](README.md) | [🙋 About Me](about.md) | [📂 Projects](projects.md)
+
+---
+
 This portfolio shows my learning journey in the PKS subject as a BSIT student at New Era University.
 
 Throughout this course, I was able to apply and improve my knowledge in web development, documentation, and system organization. I learned how to properly structure a digital portfolio using Markdown and how to organize files, images, and content in a clean and systematic way.
