@@ -1,15 +1,21 @@
-# Projects
-
-## Capstone Project
-
 # 📂 Projects
 
 [🏠 Home](README.md) | [🙋 About Me](about.md) | [📝 Reflection](reflection.md)
 
 ---
 
-Real-Time Work Order and Task Assignment System
+## 🚀 Capstone Project
 
-## Android App
+### Real-Time Work Order and Task Assignment System
 
-Student GPA Calculator
+A system designed for efficient task management and real-time tracking using modern web and mobile technologies.
+
+---
+
+## 📱 Android App
+
+### Student GPA Calculator
+
+A mobile application that helps students calculate and monitor their GPA efficiently.
+
+---
