@@ -16,7 +16,7 @@
 
 ---
 
-# 📌 Navigation
+## 📌 Navigation
 
 | Section | Link |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I am a BSIT student at **New Era University** with a strong interest in building secure and efficient systems.
 
@@ -38,15 +38,18 @@ I specialize in:
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 🌐 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,androidstudio,kotlin" />
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
 
 ### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
 ### 🔐 Cybersecurity
 <img src="https://skillicons.dev/icons?i=linux,bash" />
@@ -55,19 +58,16 @@ I specialize in:
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 🚀 Real-Time Work Order and Task Assignment System
+### 🚀 Real-Time Work Order and Task Assignment System
 *Capstone Project*
-A system focused on real-time task management using the MERN Stack and Socket.io.
 
-## 📱 Student GPA Calculator
-A mobile application for efficient academic monitoring.
+A system designed for efficient task management and real-time tracking using modern web and mobile technologies.
+
+**Technologies Used:**
+- React Native, MERN Stack, Firebase
 
 ---
 
-<div align="center">
-
 ### ⭐ Thank you for visiting my portfolio!
-
-</div>
